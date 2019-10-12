@@ -8,8 +8,6 @@ def fourth_challenge
         {name: "Benvolio", age: "15", status: "alive"},
         {name: "Mercutio", age:"18", attitude:"hot-headed"}
         ]
-        #your hashes here!
-      ]
    }, 
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
@@ -19,10 +17,6 @@ def fourth_challenge
         {name: "Steven", age: "30", attitude: "confused"},
         {name: "Nurse", age:"44", attitude: "worried"}
         ]
-
-      
-        #your hashes here!
-      
    }
 }
 
